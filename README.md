@@ -1,4 +1,4 @@
-# 🎓 GradGate – Student Recruitment Application
+# 🎓 GradGate – Student Recruitment Portal
 
 **GradGate** is a student recruitment platform built using **Flutter** for the frontend and **MySQL** (via XAMPP) for the backend. It connects **students**, **companies**, and **colleges**, offering a streamlined interface for applying to jobs, posting opportunities, and tracking placements.
 
